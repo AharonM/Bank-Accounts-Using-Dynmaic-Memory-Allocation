@@ -1,0 +1,5 @@
+Daniel Levy 128997445 1234 Checking 200.55
+Benny Weiss 145668951 5678 Savings 1234.56
+Emily Smith 169788815 9876 CD 2.33
+Shawn Creed 164535114 2222 Savings 5000.00
+Sharon Cohen 149556319 3333 Checking 999.99
